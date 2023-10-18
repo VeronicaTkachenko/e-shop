@@ -1,2 +1,2 @@
 # Hydrocycles
-https://veronicatkachenko.github.io/my_work/
+ https://veronicatkachenko.github.io/e-shop/
